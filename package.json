@@ -1,0 +1,13 @@
+{
+  "name": "wemadz",
+  "version": "1.0.0",
+  "description": "Serveur Node.js WEMAD Z^Z avec abonnements et paiements",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  }
+}
